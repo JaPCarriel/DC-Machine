@@ -1,0 +1,2 @@
+[diff "slx"]
+textconv = unzip -c -a
