@@ -1,4 +1,4 @@
-# DC-Machine Project using Matlab(Simulink) and Scilab
+# EN - DC-Machine Project using Matlab(Simulink) and Scilab
 - Project for the Eletrical Machines subjects of the Instrumentation, Automation and Robotics Engineering course @ UFABC 
 
 ## Specified parameters:
@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-# Projeto de um motor CC utilizando Matlab(Simulink) e Scilab
+# PT/BR - Projeto de um motor CC utilizando Matlab(Simulink) e Scilab
 - Projeto para a disciplina Maquinas Eletricas do curso de Engenharia de Instrumentação automação e Robótica na UFABC 
 
 ## Parâmetros especificos:
