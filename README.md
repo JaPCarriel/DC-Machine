@@ -1,6 +1,6 @@
 # DC-Machine Project using Matlab(Simulink) and Scilab
 - Project for the Eletrical Machines subjects of the Instrumentation, Automation and Robotics Engineering course @ UFABC 
-- 
+
 ## Specified parameters:
 
 - If = Field Current
@@ -14,7 +14,7 @@
 
 # Projeto de um motor CC utilizando Matlab(Simulink) e Scilab
 - Projeto para a disciplina Maquinas Eletricas do curso de Engenharia de Instrumentação automação e Robótica na UFABC 
-- 
+
 ## Parâmetros especificos:
 
 - If = Corrente de campo
