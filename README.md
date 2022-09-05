@@ -2,11 +2,11 @@
 
 ## Specified parameters:
 
-- If Field Current = 1 A
-- La Armature Inductance = .0025 H
-- Ra Armature Resistance = .5 &#8486;
-- V Nominal Voltage = 120 V
-- I Nominal Current = 20 A
-- n Nominal Velocity = 3000 rpm
+- If = Field Current
+- La = Armature Inductance
+- Ra = Armature Resistance
+- V  = Nominal Voltage
+- I  = Nominal Current
+- n  = Nominal Velocity
 <br/>
 
