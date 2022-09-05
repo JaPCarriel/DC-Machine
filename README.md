@@ -1,4 +1,4 @@
-# Simple DC-Machine Project using Matlab
+# Simple DC-Machine Project using Matlab - Simulink and Scilab
 
 ## Specified parameters:
 
@@ -7,7 +7,6 @@
 - Ra Armature Resistance = .5 &#8486;
 - V Nominal Voltage = 120 V
 - I Nominal Current = 20 A
-- n Nominal RPM = 3000 rpm
+- n Nominal Velocity = 3000 rpm
 <br/>
 
-Using a PID controller
